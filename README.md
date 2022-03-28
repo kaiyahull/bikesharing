@@ -1,6 +1,6 @@
 # NYC Citibike Analysis
 
-[link to dashboard](https://public.tableau.com/shared/S4874FH8Y?:display_count=n&:origin=viz_share_link "NYC Citibike Dashboard")
+[NYC Citibike Dashboard](https://public.tableau.com/shared/S4874FH8Y?:display_count=n&:origin=viz_share_link)
 
 ## Overview of the Analysis:
 The purpose of this analysis is to gain an understanding of the success of Citibike in New York to convince investors that a similar ride sharing program can be implemented in Des Moines. 
